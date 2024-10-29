@@ -1,0 +1,10 @@
+.form {
+  width: 100%;
+  display: flex;
+  padding: 1.4rem 1rem;
+  background-color: var(--color-bg-dark);
+}
+
+.input {
+  font-size: 1.4rem;
+}
